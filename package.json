@@ -1,0 +1,27 @@
+{
+  "name": "kuyu",
+  "version": "0.0.1",
+  "description": "Simple regex validation for objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [
+    "object",
+    "validation",
+    "regex"
+  ],
+  "author": "indatawetrust",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indatawetrust/kuyu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/indatawetrust/kuyu/issues"
+  },
+  "homepage": "https://github.com/indatawetrust/kuyu#readme",
+  "devDependencies": {
+    "ava": "^0.21.0"
+  }
+}
